@@ -9,4 +9,4 @@
 
 <p><img align="left" src="https://read-me-zeta-six.vercel.app/api/top-langs?username=spaik111&show_icons=true&locale=en&layout=compact" alt="spaik111" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spaik111&show_icons=true&locale=en" alt="spaik111" /></p>
+<p>&nbsp;<img align="center" src="https://read-me-zeta-six.vercel.app/api?username=spaik111&show_icons=true&locale=en" alt="spaik111" /></p>
