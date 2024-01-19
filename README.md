@@ -18,10 +18,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/images/9c6112ad09fa84c243d415ed6db88376/tenor.gif?itemid=13451569"  />
+<img align="right" height="250" src="https://media1.tenor.com/images/9c6112ad09fa84c243d415ed6db88376/tenor.gif?itemid=13451569"  />
 
 ###
-
-<br clear="both">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=i2e1xvpf5a3epfga9r3dbofr1)
+###
 
 ###
